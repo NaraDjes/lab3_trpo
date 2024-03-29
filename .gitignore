@@ -1,0 +1,8 @@
+*.swp
+main.c
+libgeometry.a
+main.d
+main.o
+circle.d
+circle.o
+main
